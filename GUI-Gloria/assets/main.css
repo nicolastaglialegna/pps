@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@page { sAize: auto;  margin: 0mm; }
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    margin: 10px;
+    padding: 0;
+}
+.logo{
+    width: 185px;
+    height: 80px;
+}
